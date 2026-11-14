@@ -98,13 +98,3 @@ const alf5mdev = {
   <a href="https://discord.com/users/1519321678822379684">Discord</a> ·
   <a href="https://alf5mdev.site.je">Website</a>
 </p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into reality, one line of code at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=100&section=footer" width="100%" alt="Emerald footer" />
-</p>
