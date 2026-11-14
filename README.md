@@ -89,16 +89,6 @@ const alf5mdev = {
 | **FlaronMC Store** | A Minecraft store for the FlaronMC community. | [Visit Store](https://flaron-store.gt.tc/?i=1) |
 | **Ahmed Said – Health Group** | A website project for a health group. | [Visit Website](https://ahmed-said.gt.tc/) |
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ialf5m&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" alt="Alf5mDev's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ialf5m&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="Alf5mDev's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialf5m&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Most used languages" />
-</p>
 
 ## 🌐 Connect With Me
 
