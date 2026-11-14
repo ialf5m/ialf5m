@@ -91,10 +91,20 @@ const alf5mdev = {
 
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.instagram.com/ialf5m">Instagram</a> ·
-  <a href="https://www.youtube.com/@ialf5m">YouTube</a> ·
-  <a href="https://discord.com/users/1519321678822379684">Discord</a> ·
-  <a href="https://alf5mdev.site.je">Website</a>
+  <i>Have a project, an idea, or just want to say hello? Find me here.</i>
+</p><p align="center">
+  <a href="https://www.instagram.com/ialf5m" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20%40ialf5m-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Alf5mDev on Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@ialf5m" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Alf5mDev on YouTube" />
+  </a>
+  <br />
+  <a href="https://discord.com/users/1519321678822379684" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message Alf5mDev on Discord" />
+  </a>
+  <a href="https://alf5mdev.site.je" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the Alf5mDev website" />
+  </a>
 </p>
